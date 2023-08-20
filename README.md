@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./Hospital_Management_System_Dapp/images and videos/Cover.png" alt="Cover"/>
-</p>
-
-# Decentralised Personal Health Record Application
+# Decentralised Personal Health Record Application (BlockMeds)
 
 It is an Ethereum blockchain based database management system for hospital record management.
 
