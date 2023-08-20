@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="./Hospital_Management_System_Dapp/images and videos/Cover.png" alt="Cover"/>
+  <img src="./images and videos/Cover.png" alt="Cover"/>
 </p>
 
-# Decentralised Personal Health Record Application
+# Hospital_Management_System_Dapp
 
 It is an Ethereum blockchain based database management system for hospital record management.
-
-Created by :
-
-Kartik Katkar
-Mayuresh Kaulwar
-Yash Kawtikwar
 
 # Screenshots of working
 &nbsp; 
@@ -19,7 +13,7 @@ The below image is a compilation of images which show the successful deployment 
 
 
 <p align="center">
-  <img src="./Hospital_Management_System_Dapp/images and videos/Project.gif" alt="Image"/>
+  <img src="./images and videos/Project.gif" alt="Image"/>
 </p>
 
 &nbsp;
@@ -172,3 +166,4 @@ web3.eth.getAccounts().then(console.log);
 -Enable patient control over their data: Patients would have the ability to control and manage access to their personal health information (PHI) through the use of digital identity and consent management tools.
 
 -So in order to enhance the hospital's digital health system, we propose a "Decentralized Medical data sharing & storage application based on blockchain."
+
